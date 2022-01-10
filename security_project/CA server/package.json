@@ -1,0 +1,27 @@
+{
+  "name": "ca-server",
+  "version": "1.0.0",
+  "description": "this  is an  node project  (backend)  for  collage project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "security",
+    "nodejs",
+    "angular",
+    "e2e",
+    "hash"
+  ],
+  "author": "Sameh  Yassin",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.1",
+    "crypto-js": "^4.1.1",
+    "express": "^4.17.1",
+    "keypair": "^1.0.4",
+    "node-forge": "^0.10.0",
+    "nodemon": "^2.0.15"
+  }
+}
